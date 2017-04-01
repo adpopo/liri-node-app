@@ -1,0 +1,55 @@
+﻿test
+====
+
+
+movie-this 
+Year: 2009
+Title: Mr. Nobody
+Country: Belgium, Germany, Canada, France
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 64%
+URL: http://www.magpictures.com/mrnobody/
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Language: English, Mohawk
+
+do-what-it-says 
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+Album: The Hits--Chapter One
+
+spotify-this-song hello 
+Artists: Adele
+Song Name: Hello
+Preview Link: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+Album: Hello
+
+my-tweets 
+RT @Newegg: Enter the Newegg #PAXEast @htcvive &amp; @IntelGaming Giveaway to win a Vive VR headset &amp; i7-7700K Kaby Lake CPU ► https://t.co/9oQ…
+RT @JTechApple: Natural Desk Setup Tour (2017)
+
+https://t.co/F3KVqCyVNo https://t.co/HocHDZw02C
+I vote @AVADirect for the #RigChallengeSweepstakes #giveaway https://t.co/KMpWZ7M3Cl
+RT @Razer: Win awesome prizes when you join in the festivities and take part in the Razer Winter Fiesta: https://t.co/JWmS0obemz https://t.…
+RT @Newegg: Enter to win this gorgeous @Corsair GTX 1080 gaming rig armed with an @intel i7, the @htcvive #VR &amp; much more: https://t.co/yKC…
+Heck yea- Win a Canon 5D Mark IV from https://t.co/gYMZoRS116! https://t.co/mUtmtVeKk8 from @LensRentals
+RT @GIGABYTEUSA: In our final #Mod2Win sponsor week giveaway we have teamed up with @Newegg to hand out $25 gift cards! Enter now: https://…
+Join @GIGABYTEUSA's #Mod2Win giveaway w/ gift cards &amp; goodie bags from @Newegg. Enter to win now! Its free :) https://t.co/DNQ9Tu7Ucd
+RT @Newegg: Win epic PC gear from @ZOTAC @IntelGaming @AcerAmerica @ROCCAT &amp; @NVIDIAGeForce ▶️ https://t.co/0ii1kkJnAZ #ZOTAC10YR #ZOTACWOR…
+Do you love #photography?  Want a free MacBook Pro?  Enter to win the @5DayDeal $10,000+ Giveaway!
+
+https://t.co/wEVgMjk6zZ
+
+#5DayDifference
+I'm back! And on that note, see you again in a year ;)
+Check out this awesome #G2AGiveaway and win great prizes with @GIGABYTEUSA! https://t.co/Xp0a76p3aw
+RT @TRUgamingLLC: BIG GIVEAWAY! Want to win a PS4 Bundle w/ NMS+GTA5, Xbox 1 S, or Razer Blade Stealth? Check out this link enter! 
+https:/…
+RT @Newegg: Over $25K of rad tech &amp; #Newegg Eggpoints are up for grabs! Enter to win &gt;&gt; https://t.co/cMjnrIZdPn https://t.co/EdB5FaX3yB
+RT @CybertronPC: The #IntelRigChallenge PC is on #partymode! Enter 2 win $10k worth of PC gaming goodness at https://t.co/c66JoeQPb5 https:…
+I vote team @cybertronPC for #IntelRigChallenge. https://t.co/fVL1nRzBU9
+I just entered to win a K70 RGB RAPIDFIRE from @Corsair! Enter now at https://t.co/sg2TIJl3H6 #SPEEDCOUNTS https://t.co/1GkRerszN6
+Help Me To Win This Awesome Technology Advanced Road Bike: https://t.co/sKso5GEoy5
+I did a thing https://t.co/wwyAyObMpJ
+Probably the most popular member of the @weckmethod team #workpuppy #dogsofinstagram https://t.co/1RrXcBEDGH
